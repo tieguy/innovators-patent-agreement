@@ -1,6 +1,6 @@
 ### INNOVATOR’S PATENT AGREEMENT (IPA), Version 1.0
 
-This innovator's patent agreement is made between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [STATE OF INCORPORATION] corporation (“Company”).
+This innovator's patent agreement is dated [DATE] and is made between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [STATE OF INCORPORATION] corporation (“Company”).
 
 WHEREAS the Inventors have invented certain patentable subject matter which they desire to assign to the Company;
 
@@ -48,7 +48,7 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
     Any sublicense granted by the Inventors under this section must be without threat or additional consideration; otherwise, the sublicense will be considered void ab initio.  This license to the Inventors is not assignable, although the license shall pass to the heirs of an inventor in the case that the inventor is deceased, and the inventors, individually or jointly, may appoint a representative who may act on their behalf in granting sublicenses under this section.  Assignee acknowledges and agrees that the promises in section 2 and 4 are intended to benefit third parties, except in the case of an assertion of claims of the Patents authorized under section 2.
 
-AGREED TO AND ACCEPTED:
+The parties are signing this agreement on the date stated in the introductory clause.
 
 
 
