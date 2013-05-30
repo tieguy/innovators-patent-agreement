@@ -8,7 +8,7 @@ The Inventors have invented certain patentable subject matter, and they want to 
 
 The parties therefore agree as follows:
 
-1.  Subject to the terms and conditions herein, Inventors do hereby sell, assign, and transfer and have sold, assigned, and transferred to the Company, for itself and its successors, transferees, and assignees, the entire worldwide right, title, and interest in and to the following patent application(s):
+1.  Subject to the terms and conditions herein, Inventors hereby sell, assign, and transfer and have sold, assigned, and transferred to the Company, for itself and its successors, transferees, and assignees, the entire worldwide right, title, and interest in and to the following patent application(s):
     
     <table>
       <tr>
