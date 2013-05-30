@@ -6,7 +6,7 @@ This innovator's patent agreement is dated [DATE], and is between the person(s) 
 
 The Inventors have invented certain patentable subject matter, and they want to assign these inventions the Company.
 
-NOW, THEREFORE, for good and valuable consideration, the receipt of which is hereby acknowledged, the parties agree as follows:
+The parties therefore agree as follows:
 
 1.  Subject to the terms and conditions herein, Inventors do hereby sell, assign, and transfer and have sold, assigned, and transferred to the Company, for itself and its successors, transferees, and assignees, the entire worldwide right, title, and interest in and to the following patent application(s):
     
