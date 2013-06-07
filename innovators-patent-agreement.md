@@ -2,7 +2,7 @@
 
 This innovator's patent agreement is dated [DATE], and is between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [STATE OF INCORPORATION] corporation (“Company”).
 
-The Inventors have invented certain patentable subject matter, and they want to assign these inventions the Company.
+The Inventors have invented certain patentable subject matter, and they want to assign these inventions to the Company.
 
 The parties therefore agree as follows:
 
