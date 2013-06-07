@@ -28,7 +28,7 @@ The parties therefore agree as follows:
 
     including: 
     
-    (a) any and all inventions and improvements (“Subject Matter”) disclosed therein; 
+    (a) each invention and improvement (“Subject Matter”) disclosed therein; 
     
     (b) all right of priority in the above application(s) and in any underlying provisional or foreign application; 
     
