@@ -36,7 +36,7 @@ The parties therefore agree as follows:
     
     (d) all patents (“Patents”), including reissues and reexaminations, which may be granted on any of the above applications, together with all rights to recover damages for infringement, including infringement of provisional rights.
 
-2.  The Company, and its successors, transferees, and assignees (collectively the “Assignee”), shall not assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose. An assertion of claims of the Patents shall be considered for a “Defensive Purpose” if the claims are asserted: 
+2.  The Company, and its successors, transferees, and assignees (collectively the “Assignee”), shall not assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose. An assertion of claims of the Patents is for a “Defensive Purpose” if the claims are asserted: 
 
     (a) against an Entity that has filed, maintained, threatened, or voluntarily participated in a patent infringement lawsuit against Assignee or any of Assignee’s users, affiliates, customers, suppliers, or distributors;
 
@@ -54,7 +54,7 @@ The parties therefore agree as follows:
 
 4.  The Assignee hereby grants to the Inventors a perpetual, worldwide, non-exclusive, royalty-free, no-charge irrevocable license under the Patents, the license explicitly limited to those rights necessary to enforce the promises made by Assignee in section 2.  Accordingly, if Assignee asserts any of the Patent claims against any entity in a manner that breaks the promises of section 2, the Inventors, individually or jointly, may grant written nonexclusive sublicenses, without the right to further sublicense, the scope of the sublicense being limited to those rights necessary to enforce the promises made by Assignee in section 2.  
 
-    Any sublicense granted by the Inventors under this section must be without threat or additional consideration; otherwise, the sublicense will be considered void from the beginning.  This license to the Inventors is not assignable, although the license shall pass to the heirs of an Inventor in the case that the Inventor is deceased, and the Inventors, individually or jointly, may appoint a representative who may act on their behalf in granting sublicenses under this section.  Assignee acknowledges that the promises in section 2 and 4 are intended to benefit third parties, except in the case of an assertion of claims of the Patents authorized under section 2.
+    Any sublicense granted by the Inventors under this section must be without threat or additional consideration; otherwise, the sublicense will be considered void from the beginning.  This license to the Inventors is not assignable, although the license will pass to the heirs of an Inventor in the case that the Inventor is deceased, and the Inventors, individually or jointly, may appoint a representative who may act on their behalf in granting sublicenses under this section.  Assignee acknowledges that the promises in section 2 and 4 are intended to benefit third parties, except in the case of an assertion of claims of the Patents authorized under section 2.
 
 The parties are signing this agreement on the date stated in the introductory clause.
 
