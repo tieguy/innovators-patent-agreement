@@ -1,4 +1,4 @@
-### INNOVATOR’S PATENT AGREEMENT (IPA), Version 1.0
+### INNOVATOR’S PATENT AGREEMENT (IPA), MSCDIFIED: NOT OFFICIAL
 
 This innovator's patent agreement is dated [DATE], and is between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [STATE OF INCORPORATION] corporation (“Company”).
 
