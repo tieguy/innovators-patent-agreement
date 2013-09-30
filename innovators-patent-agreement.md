@@ -6,7 +6,7 @@ The Inventors have invented certain patentable subject matter, and they want to 
 
 The parties therefore agree as follows:
 
-1.  Subject to the terms and conditions herein, Inventors hereby sell, assign, and transfer and have sold, assigned, and transferred to the Company, for itself and its successors, transferees, and assignees, the entire worldwide right, title, and interest in and to the following patent application(s):
+1.  **Assignment of Applications, Inventions, and Patents.** Subject to the terms and conditions herein, Inventors hereby sell, assign, and transfer and have sold, assigned, and transferred to the Company, for itself and its successors, transferees, and assignees, the entire worldwide right, title, and interest in and to the following patent application(s):
     
     <table>
       <tr>
@@ -36,7 +36,7 @@ The parties therefore agree as follows:
     
     (d) all patents (“Patents”), including reissues and reexaminations, which may be granted on any of the above applications, together with all rights to recover damages for infringement, including infringement of provisional rights.
 
-2.  The Company, and its successors, transferees, and assignees (collectively the “Assignee”), shall not assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose. An assertion of claims of the Patents is for a “Defensive Purpose” if the claims are asserted: 
+2.  **Limits on Assertion of Patents.** The Company, and its successors, transferees, and assignees (collectively the “Assignee”), shall not assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose. An assertion of claims of the Patents is for a “Defensive Purpose” if the claims are asserted: 
 
     (a) against an Entity that has filed, maintained, threatened, or voluntarily participated in a patent infringement lawsuit against Assignee or any of Assignee’s users, affiliates, customers, suppliers, or distributors;
 
@@ -50,9 +50,9 @@ The parties therefore agree as follows:
 
     Assignee acknowledges that the above promises are intended to run with the Patents and are binding on any future owner, assignee or exclusive licensee who has been given the right to enforce any claims of the Patents against third parties. Assignee shall encumber any assignment or transfer of its right, title, or interest herein with the promises herein.  
 
-3.  Assignee may apply for and receive patents for Subject Matter in Assignee’s own name.  Inventors shall, when requested, and without further consideration, execute all papers necessary to fully secure to Assignee the rights, titles and interests herein conveyed.  Inventors state that they have the rights, titles, and interests to convey as set forth herein. Inventors state that they have not made, and shall not make, any assignment, grant, mortgage, license, or other agreement affecting the rights, titles, and interests herein conveyed, except as explicitly set forth herein.
+3.  **Patent Details.** Assignee may apply for and receive patents for Subject Matter in Assignee’s own name.  Inventors shall, when requested, and without further consideration, execute all papers necessary to fully secure to Assignee the rights, titles and interests herein conveyed.  Inventors state that they have the rights, titles, and interests to convey as set forth herein. Inventors state that they have not made, and shall not make, any assignment, grant, mortgage, license, or other agreement affecting the rights, titles, and interests herein conveyed, except as explicitly set forth herein.
 
-4.  The Assignee hereby grants to the Inventors a perpetual, worldwide, non-exclusive, royalty-free, no-charge irrevocable license under the Patents, the license explicitly limited to those rights necessary to enforce the promises made by Assignee in section 2.  Accordingly, if Assignee asserts any of the Patent claims against any entity in a manner that breaks the promises of section 2, the Inventors, individually or jointly, may grant written nonexclusive sublicenses, without the right to further sublicense, the scope of the sublicense being limited to those rights necessary to enforce the promises made by Assignee in section 2.  
+4.  **License for Enforcement.** The Assignee hereby grants to the Inventors a perpetual, worldwide, non-exclusive, royalty-free, no-charge irrevocable license under the Patents, the license explicitly limited to those rights necessary to enforce the promises made by Assignee in section 2.  Accordingly, if Assignee asserts any of the Patent claims against any entity in a manner that breaks the promises of section 2, the Inventors, individually or jointly, may grant written nonexclusive sublicenses, without the right to further sublicense, the scope of the sublicense being limited to those rights necessary to enforce the promises made by Assignee in section 2.  
 
     Any sublicense granted by the Inventors under this section must be without threat or additional consideration; otherwise, the sublicense will be considered void from the beginning.  This license to the Inventors is not assignable, although the license will pass to the heirs of an Inventor in the case that the Inventor is deceased, and the Inventors, individually or jointly, may appoint a representative who may act on their behalf in granting sublicenses under this section.  Assignee acknowledges that the promises in section 2 and 4 are intended to benefit third parties, except in the case of an assertion of claims of the Patents authorized under section 2.
 
